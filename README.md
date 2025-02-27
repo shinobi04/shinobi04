@@ -1,64 +1,30 @@
-<!-- Solo Leveling Inspired Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=4000&pause=1000&color=7A0BC0&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%91%BB+Shadow+Monarch+of+Code;%F0%9F%92%BB+Anurag+Kumar+Singh" alt="Animated Header">
-  
-  <h3 align="center">⚔️ Ascending Developer at <a href="https://www.ipu.ac.in">USICT</a></h3>
-  
-  <!-- Solo Leveling Style Divider replaced with inline SVG -->
-  <div align="center">
-    <svg width="800" height="50" viewBox="0 0 800 50" xmlns="http://www.w3.org/2000/svg">
-      <line x1="0" y1="25" x2="800" y2="25" stroke="#7A0BC0" stroke-width="5" stroke-dasharray="20,10"/>
-    </svg>
-  </div>
-</div>
 
-<!-- Stats Grid -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shinobi04&show_icons=true&theme=midnight-purple&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinobi04&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" /> |
-| ------------- | ------------- |
+<h1 align="center">Hi 👋, I'm Anurag Kumar Singh</h1>
+<h3 align="center">A passionate Android developer from India, crafting next-gen mobile experiences</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-<!-- Tech Stack Carousel -->
-<div align="center">
-  <h2>🗡️ My Weapon Arsenal</h2>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,firebase,git,cpp,java,py,tensorflow&theme=dark&perline=5" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinobi04&label=Profile%20views&color=0e75b6&style=flat" alt="shinobi04" /> </p>
 
-<!-- Gate of Knowledge Section -->
-<div align="center">
-  <h2>🔮 Gate of Knowledge</h2>
-  
-  ### 🛠️ Crafting My Arsenal
-  ![Flutter](https://img.shields.io/badge/Flutter_Realm-02569B?style=flat-square&logo=flutter&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Shadow_Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Demon_Fire-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p align="left"> <a href="https://twitter.com/anuragr91015539" target="blank"><img src="https://img.shields.io/twitter/follow/anuragr91015539?logo=twitter&style=for-the-badge" alt="anuragr91015539" /></a> </p>
 
-  ### 🏫 Training New Skills
-  ![Web](https://img.shields.io/badge/Web_Portal-FF2D20?style=flat-square&logo=javascript&logoColor=white)
-  ![ML](https://img.shields.io/badge/Arcane_ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-</div>
+- 🔭 I’m currently working on **DevSource App**
 
-<!-- Solo Leveling Quote -->
-<div align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-  <br>
-  <i>"I'll create my own destiny." - Sung Jin-Woo</i>
-</div>
+- 🌱 I’m currently learning **Flutter , Kotlin , Swift**
 
-<!-- Social Links with Solo Leveling Style -->
-<div align="center">
-  <h2>🌌 Shadow Network</h2>
-  
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-Hunter%20Guild-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Twitter](https://custom-icon-badges.demolab.com/badge/-Shadow%20Tweets-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  [![LeetCode](https://custom-icon-badges.demolab.com/badge/-Dungeon%20Challenges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
-</div>
+- 💬 Ask me about **Android , IOS**
 
-<!-- Snake Animation with Dark Theme -->
-<div align="center">
-  <img src="https://github.com/shinobi04/shinobi04/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
+- 📫 How to reach me **anuragkrsingh3456@gmail.com**
 
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shinobi04&label=System%20Scans&color=7A0BC0&style=flat-square">
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anuragr91015539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragr91015539" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anurag-kumar-singh-56718427b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-kumar-singh-56718427b" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_anuragg_04s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_anuragg_04s" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinobi04&show_icons=true&locale=en&layout=compact" alt="shinobi04" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinobi04&show_icons=true&locale=en" alt="shinobi04" /></p>
